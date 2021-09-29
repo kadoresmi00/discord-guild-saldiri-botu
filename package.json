@@ -1,0 +1,25 @@
+{
+    "name": "kado",
+    "version": "1.0.0",
+    "description": "Discordun en hızlı patlatma saldırı botu",
+    "main": "kado.js",
+    "dependencies": {
+        "discord.js-selfbot-v11": "^11.5.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "Discord",
+        "Kado",
+        "Discord",
+        "patlatma",
+        "bot",
+        "Kado",
+        "Patlatma",
+        "bot"
+    ],
+    "author": "Kado",
+    "license": "ISC"
+}
